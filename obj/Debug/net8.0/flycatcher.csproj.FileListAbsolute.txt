@@ -1,0 +1,14 @@
+D:\Deakin Programs\p4\flycatcher\bin\Debug\net8.0\flycatcher.exe
+D:\Deakin Programs\p4\flycatcher\bin\Debug\net8.0\flycatcher.deps.json
+D:\Deakin Programs\p4\flycatcher\bin\Debug\net8.0\flycatcher.runtimeconfig.json
+D:\Deakin Programs\p4\flycatcher\bin\Debug\net8.0\flycatcher.dll
+D:\Deakin Programs\p4\flycatcher\bin\Debug\net8.0\flycatcher.pdb
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\flycatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\flycatcher.AssemblyInfoInputs.cache
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\flycatcher.AssemblyInfo.cs
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\flycatcher.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\flycatcher.dll
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\refint\flycatcher.dll
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\flycatcher.pdb
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\flycatcher.genruntimeconfig.cache
+D:\Deakin Programs\p4\flycatcher\obj\Debug\net8.0\ref\flycatcher.dll
